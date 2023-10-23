@@ -18,7 +18,6 @@ for (let i = 0; i < col; i++) {
   rowCont.appendChild(rowcell);
 }
 
-
 for (let i = 0; i < row; i++) {
   let rowCont = document.createElement("div");
   rowCont.setAttribute("class", "row-cont");
